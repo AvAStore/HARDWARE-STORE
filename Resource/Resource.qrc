@@ -1,0 +1,30 @@
+<RCC>
+  <qresource>
+    <file>img/icon.png</file>
+    <file>img/icon.jpeg</file>
+    <file>img/circle-user.png</file>
+    <file>img/sort-alt.png</file>
+    <file>img/add.png</file>
+    <file>img/ballot.png</file>
+    <file>img/cash-register.png</file>
+    <file>img/chat-arrow-grow.png</file>
+    <file>img/computer.png</file>
+    <file>img/cross (1).png</file>
+    <file>img/document-signed.png</file>
+    <file>img/edit.png</file>
+    <file>img/key.png</file>
+    <file>img/layers.png</file>
+    <file>img/list-check.png</file>
+    <file>img/lock.png</file>
+    <file>img/minus.png</file>
+    <file>img/pencil.png</file>
+    <file>img/plus-small.png</file>
+    <file>img/power.png</file>
+    <file>img/settings.png</file>
+    <file>img/shop.png</file>
+    <file>img/trash.png</file>
+    <file>img/usd-circle (1).png</file>
+    <file>img/usd-circle.png</file>
+    <file>img/user.png</file>
+  </qresource>
+</RCC>
